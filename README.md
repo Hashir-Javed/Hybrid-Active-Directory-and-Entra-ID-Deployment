@@ -1,4 +1,4 @@
-# 🌐Hybrid Active Directory & Entra ID Deployment
+# 🌐Active Directory & Entra ID Deployment
 
 ## Project Overview
 This project demonstrates the setup and management of a hybrid IT environment that combines on-premises infrastructure with cloud services. It focuses on identity and access management, including user account provisioning, group management, authentication, and endpoint administration. The goal is to build and maintain a secure and scalable environment that reflects how many modern small-to-medium businesses manage users, devices, and resources across both on-premises and cloud platforms.
